@@ -1,4 +1,4 @@
-# 3dprinter_manager
+# QG招新报名表
 
 ## Project setup
 ```
